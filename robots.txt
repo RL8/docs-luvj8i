@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-dn7o83.hsteamid.com/sitemap.xml
